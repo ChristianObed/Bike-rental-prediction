@@ -7,3 +7,7 @@ Rental bikes are available in many cities around the globe. It is important for 
 
 The Seoul Bike Sharing Demand Data Set([seoul_bike_sharing.csv](seoul_bike_sharing.csv)) was designed for this purpose. It contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), and the number of bikes rented per hour and date.
 
+### Dataset Sample
+| DATE     | RENTED_BIKE_COUNT | HOUR | TEMPERATURE | HUMIDITY | WIND_SPEED | VISIBILITY | DEW_POINT_TEMPERATURE | SOLAR_RADIATION | RAINFALL | SNOWFALL | SEASONS | HOLIDAY   | FUNCTIONING_DAY |
+| ---------|-------------------| -----|-------------|----------|------------|------------|-----------------------|----------------------------|----------|----------|---------|-----------|-----------------|
+|2017-12-01|	254               |   0  | -5.2        |     37   |     2.2    |    2000    |           -17.6	      |      0         |   0       |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
