@@ -27,7 +27,7 @@ it contains the following collumn
 ### Dataset Sample
 | Date     | RENTED_BIKE_COUNT | Hour | TEMPERATURE | HUMIDITY | WIND_SPEED | VISIBILITY | DEW_POINT_TEMPERATURE | SOLAR_RADIATION | RAINFALL | SNOWFALL | SEASONS | HOLIDAY   | FUNCTIONING_DAY |
 | ---------|-------------------| -----|-------------|----------|------------|------------|-----------------------|----------------------------|----------|----------|---------|-----------|-----------------|
-|01/12/2017|	254               |   0  | -5.2        |     37   |     2.2    |    2000    |           -17.6	      |      0         |   0       |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
-|01/12/12017| 204              |   1  |     -5.5    |     38   |     0.8    |    2000    |           -17.6	      |      0         |   0       |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
-|01/12/12017| 173              |   2  |     -6.0    |     39   |     1.0    |    2000    |           -17.7	      |      0         |   0       |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
-|01/12/12017| 107              |   3  |     -6.2    |     40   |     0.9    |    2000    |           -17.6       |      0         |   0       |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
+|01/12/2017 |	254              |   0  | -5.2        |     37   |     2.2    |    2000    |           -17.6	      |      0                      |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
+|01/12/12017| 204              |   1  |     -5.5    |     38   |     0.8    |    2000    |           -17.6	      |      0                      |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
+|01/12/12017| 173              |   2  |     -6.0    |     39   |     1.0    |    2000    |           -17.7	      |      0                      |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
+|01/12/12017| 107              |   3  |     -6.2    |     40   |     0.9    |    2000    |           -17.6       |      0                      |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
