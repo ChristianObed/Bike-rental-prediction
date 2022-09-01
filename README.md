@@ -1,12 +1,29 @@
 # Bike-rental-prediction
 
-this Repository contains some project i have done on IBM Data Analytics with Excel and R Professional Certificate
+this Repository contains some project i have done on `IBM Data Analytics with Excel and R `
  https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel
 
 Rental bikes are available in many cities around the globe. It is important for each of these cities to provide a reliable supply of rental bikes to optimize availablity and accessibility to the public at all times. Also important is minimizing the cost of these programs, in part by minimizing the number of bikes supplied in order to meet the demand. Thus, to help optimize the supply it would be helpful to be able to predict the number of bikes required each hour of the day, based on currrent conditions such as the weather.
 
-The Seoul Bike Sharing Demand Data Set([seoul_bike_sharing.csv](seoul_bike_sharing.csv)) was designed for this purpose. It contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), and the number of bikes rented per hour and date.
+The Seoul Bike Sharing Demand Data Set([raw_seoul_bike_sharing.csv](raw_seoul_bike_sharing.csv)) was designed for this purpose. It contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), and the number of bikes rented per hour and date.
 
+## Dataset info
+This dataset is taken from  `IBM Data Analytics with Excel and R Courses` 
+it contains the following collumn
+*   `Date` : Day-Month-Year
+*   `RENTED BIKE COUNT`- Count of bikes rented at each hour
+*   `HOUR`- Hour of he day
+*   `TEMPERATURE` - Temperature in Celsius
+*   `HUMIDITY` - humidity in `%`
+*   `WINDSPEED` - wind speed in `m/s`
+*   `VISIBILITY` - Multiplied by 10m
+*   `DEW POINT TEMERATURE` - The temperature to which the air would have to cool down in order to reach saturation, unit is Celsius
+*   `SOLAR RADIATION` - MJ/m2
+*   `RAINFALL` - mm
+*   `SNOWFALL` - cm
+*   `SEASONS` - Winter, Spring, Summer, Autumn
+*   `HOLIDAY` - Holiday/No holiday
+*   `FUNCTIONAL DAY` - No(Non Functional Hours), YES(Functional hours)
 ### Dataset Sample
 | Date     | RENTED_BIKE_COUNT | Hour | TEMPERATURE | HUMIDITY | WIND_SPEED | VISIBILITY | DEW_POINT_TEMPERATURE | SOLAR_RADIATION | RAINFALL | SNOWFALL | SEASONS | HOLIDAY   | FUNCTIONING_DAY |
 | ---------|-------------------| -----|-------------|----------|------------|------------|-----------------------|----------------------------|----------|----------|---------|-----------|-----------------|
