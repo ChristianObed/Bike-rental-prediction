@@ -8,6 +8,9 @@ Rental bikes are available in many cities around the globe. It is important for 
 The Seoul Bike Sharing Demand Data Set([seoul_bike_sharing.csv](seoul_bike_sharing.csv)) was designed for this purpose. It contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), and the number of bikes rented per hour and date.
 
 ### Dataset Sample
-| DATE     | RENTED_BIKE_COUNT | HOUR | TEMPERATURE | HUMIDITY | WIND_SPEED | VISIBILITY | DEW_POINT_TEMPERATURE | SOLAR_RADIATION | RAINFALL | SNOWFALL | SEASONS | HOLIDAY   | FUNCTIONING_DAY |
+| Date     | RENTED_BIKE_COUNT | Hour | TEMPERATURE | HUMIDITY | WIND_SPEED | VISIBILITY | DEW_POINT_TEMPERATURE | SOLAR_RADIATION | RAINFALL | SNOWFALL | SEASONS | HOLIDAY   | FUNCTIONING_DAY |
 | ---------|-------------------| -----|-------------|----------|------------|------------|-----------------------|----------------------------|----------|----------|---------|-----------|-----------------|
-|2017-12-01|	254               |   0  | -5.2        |     37   |     2.2    |    2000    |           -17.6	      |      0         |   0       |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
+|01/12/2017|	254               |   0  | -5.2        |     37   |     2.2    |    2000    |           -17.6	      |      0         |   0       |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
+|01/12/12017| 204              |   1  |     -5.5    |     38   |     0.8    |    2000    |           -17.6	      |      0         |   0       |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
+|01/12/12017| 173              |   2  |     -6.0    |     39   |     1.0    |    2000    |           -17.7	      |      0         |   0       |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
+|01/12/12017| 107              |   3  |     -6.2    |     40   |     0.9    |    2000    |           -17.6       |      0         |   0       |     0    |    0     | WINTER  | NO HOLIDAY|         YES     |
